@@ -1,0 +1,35 @@
+[
+  {
+    "id": "N023",
+    "grid": "18×18",
+    "evidence": {
+      "ordinarySeconds": 14.3,
+      "elementSeconds": 20.3,
+      "localClears": 40,
+      "pickupSpawns": 9
+    },
+    "artState": "现行玩法白板；旧图未签收"
+  },
+  {
+    "id": "N026",
+    "grid": "22×22",
+    "evidence": {
+      "matchedFirstHitChangesSideWhenBankColorsSwap": true,
+      "naturalBenchmarkStillCompetitive": true
+    },
+    "artState": "C档已选为风格样板，球路受益待验"
+  },
+  {
+    "id": "N038",
+    "grid": "18×18",
+    "evidence": {
+      "elementWhiteboardSeconds": 13.37,
+      "sameAimWithoutElementSeconds": 22.32,
+      "paintedElementSeconds": 22.38,
+      "paintedNaturalSeconds": 22.35,
+      "followupChainWhiteboard": 32,
+      "followupChainPainted": 6
+    },
+    "artState": "实验成画；白色后继连通改变"
+  }
+]
